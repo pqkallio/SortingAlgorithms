@@ -9,6 +9,7 @@
 #define	SORTING_H
 
 void insertion_sort(int array[], int length);
+void bubble_sort(int array[], int length);
 
 #endif	/* SORTING_H */
 

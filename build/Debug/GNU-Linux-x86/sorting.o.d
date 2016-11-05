@@ -1,1 +1,3 @@
-build/Debug/GNU-Linux-x86/sorting.o: sorting.c
+build/Debug/GNU-Linux-x86/sorting.o: sorting.c maxheap.h
+
+maxheap.h:
